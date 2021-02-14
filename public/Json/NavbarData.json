@@ -1,0 +1,27 @@
+{
+  "logo": "Logo",
+  "candidate": [
+    {
+      "id": "home",
+      "name": "Home",
+      "key": 1
+    },
+    {
+      "id": "portfolio",
+      "name": "Portfolio",
+      "key": 2
+    },
+    {
+      "id": "pages",
+      "name": "Pages",
+      "key": 3
+    },
+    {
+      "id": "blog",
+      "name": "Blog",
+      "key": 4
+    }
+  ],
+  "singUp": "signUp",
+  "singIn": "singIn"
+}

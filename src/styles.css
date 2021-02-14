@@ -1,0 +1,51 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body{
+  background: thistle !important;
+}
+.card{
+  border:1px solid black;
+  height: 400px;
+  width: 346px;
+  padding: 10px 20px;
+  margin: 12px 12px;
+  border-radius: 10px !important;
+  box-sizing: border-box;
+  background-color: #fff;
+  box-shadow: 0 2px 6px -2px rgb(0 106 194 / 20%);
+}
+.img-size{
+  height: 100px;
+  width: 100px;
+  border-radius: 5px !important;
+}
+.card-parent{
+  display: flex;
+  flex-wrap: wrap;
+}
+.card-header{
+  height: 200px;
+}
+.card-body{
+  height: 100px;
+}
+button{
+  border-radius: 10px !important;
+  height: 25px;
+  width: 150px;
+  border: none;
+  background: mediumaquamarine;
+  font-size: 14px !important;
+  font-family: math;
+  margin-left: 50px !important;
+}
+.card-discription{
+  font-family: sans-serif;
+  font-size: 13px;
+}
+.card-content{
+  font-family: serif;
+  font-size: 15px;
+}
